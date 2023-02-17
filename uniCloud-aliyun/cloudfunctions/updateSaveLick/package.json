@@ -1,0 +1,7 @@
+{
+  "name": "updateSaveLick",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

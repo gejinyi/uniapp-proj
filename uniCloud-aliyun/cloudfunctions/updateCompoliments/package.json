@@ -1,0 +1,7 @@
+{
+  "name": "updateCompoliments",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

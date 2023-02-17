@@ -1,0 +1,1 @@
+page{display:flex;height:100%}.home-container{flex:1;overflow:hidden;box-sizing:border-box;align-items:inherit;display:flex;align-items:center;justify-content:flex-start;flex-wrap:nowrap;flex-direction:column}.list-container{flex:1;box-sizing:border-box;height:100%}

@@ -1,0 +1,7 @@
+{
+  "name": "getSearchValue",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
